@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ferneycprietop\\source\\repos\\Utils\\Pruebas\\dasigno\\Demokrata\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DAA1112-6757-4A86-BA7E-92FE571255EC}|01.Logic\\BusinessLogic\\BusinessLogic.csproj|c:\\users\\ferneycprietop\\source\\repos\\utils\\pruebas\\dasigno\\demokrata\\01.logic\\businesslogic\\implement\\user\\usuariologic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DAA1112-6757-4A86-BA7E-92FE571255EC}|01.Logic\\BusinessLogic\\BusinessLogic.csproj|solutionrelative:01.logic\\businesslogic\\implement\\user\\usuariologic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54B313B0-0843-482D-8B47-5890BC122B00}|00.Presistence\\Repository\\Repository.csproj|c:\\users\\ferneycprietop\\source\\repos\\utils\\pruebas\\dasigno\\demokrata\\00.presistence\\repository\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54B313B0-0843-482D-8B47-5890BC122B00}|00.Presistence\\Repository\\Repository.csproj|solutionrelative:00.presistence\\repository\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8330569-572E-4D26-B9A2-438F1951CDE2}|01.Logic\\Domain\\Domain.csproj|c:\\users\\ferneycprietop\\source\\repos\\utils\\pruebas\\dasigno\\demokrata\\01.logic\\domain\\entity\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8330569-572E-4D26-B9A2-438F1951CDE2}|01.Logic\\Domain\\Domain.csproj|solutionrelative:01.logic\\domain\\entity\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DAA1112-6757-4A86-BA7E-92FE571255EC}|01.Logic\\BusinessLogic\\BusinessLogic.csproj|c:\\users\\ferneycprietop\\source\\repos\\utils\\pruebas\\dasigno\\demokrata\\01.logic\\businesslogic\\implement\\factorylogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DAA1112-6757-4A86-BA7E-92FE571255EC}|01.Logic\\BusinessLogic\\BusinessLogic.csproj|solutionrelative:01.logic\\businesslogic\\implement\\factorylogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54B313B0-0843-482D-8B47-5890BC122B00}|00.Presistence\\Repository\\Repository.csproj|c:\\users\\ferneycprietop\\source\\repos\\utils\\pruebas\\dasigno\\demokrata\\00.presistence\\repository\\implement\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54B313B0-0843-482D-8B47-5890BC122B00}|00.Presistence\\Repository\\Repository.csproj|solutionrelative:00.presistence\\repository\\implement\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABA7784D-5A37-4884-92D5-84E0016139E5}|02.Service\\Api\\Api.csproj|c:\\users\\ferneycprietop\\source\\repos\\utils\\pruebas\\dasigno\\demokrata\\02.service\\api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABA7784D-5A37-4884-92D5-84E0016139E5}|02.Service\\Api\\Api.csproj|solutionrelative:02.service\\api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DAA1112-6757-4A86-BA7E-92FE571255EC}|01.Logic\\BusinessLogic\\BusinessLogic.csproj|c:\\users\\ferneycprietop\\source\\repos\\utils\\pruebas\\dasigno\\demokrata\\01.logic\\businesslogic\\interface\\user\\iusuariologic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DAA1112-6757-4A86-BA7E-92FE571255EC}|01.Logic\\BusinessLogic\\BusinessLogic.csproj|solutionrelative:01.logic\\businesslogic\\interface\\user\\iusuariologic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ferneycprietop\\source\\repos\\Utils\\Pruebas\\dasigno\\Demokrata\\00.Presistence\\Repository\\Interface\\IRepository.cs",
+              "RelativeDocumentMoniker": "00.Presistence\\Repository\\Interface\\IRepository.cs",
+              "ToolTip": "C:\\Users\\ferneycprietop\\source\\repos\\Utils\\Pruebas\\dasigno\\Demokrata\\00.Presistence\\Repository\\Interface\\IRepository.cs",
+              "RelativeToolTip": "00.Presistence\\Repository\\Interface\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T09:42:01.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\ferneycprietop\\source\\repos\\Utils\\Pruebas\\dasigno\\Demokrata\\00.Presistence\\Repository\\Implement\\Repository.cs",
+              "RelativeDocumentMoniker": "00.Presistence\\Repository\\Implement\\Repository.cs",
+              "ToolTip": "C:\\Users\\ferneycprietop\\source\\repos\\Utils\\Pruebas\\dasigno\\Demokrata\\00.Presistence\\Repository\\Implement\\Repository.cs",
+              "RelativeToolTip": "00.Presistence\\Repository\\Implement\\Repository.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAcwGsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T09:40:16.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FactoryLogic.cs",
+              "DocumentMoniker": "C:\\Users\\ferneycprietop\\source\\repos\\Utils\\Pruebas\\dasigno\\Demokrata\\01.Logic\\BusinessLogic\\Implement\\FactoryLogic.cs",
+              "RelativeDocumentMoniker": "01.Logic\\BusinessLogic\\Implement\\FactoryLogic.cs",
+              "ToolTip": "C:\\Users\\ferneycprietop\\source\\repos\\Utils\\Pruebas\\dasigno\\Demokrata\\01.Logic\\BusinessLogic\\Implement\\FactoryLogic.cs",
+              "RelativeToolTip": "01.Logic\\BusinessLogic\\Implement\\FactoryLogic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAACNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T09:35:11.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\ferneycprietop\\source\\repos\\Utils\\Pruebas\\dasigno\\Demokrata\\01.Logic\\Domain\\Entity\\Usuario.cs",
+              "RelativeDocumentMoniker": "01.Logic\\Domain\\Entity\\Usuario.cs",
+              "ToolTip": "C:\\Users\\ferneycprietop\\source\\repos\\Utils\\Pruebas\\dasigno\\Demokrata\\01.Logic\\Domain\\Entity\\Usuario.cs",
+              "RelativeToolTip": "01.Logic\\Domain\\Entity\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T09:32:41.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\ferneycprietop\\source\\repos\\Utils\\Pruebas\\dasigno\\Demokrata\\02.Service\\Api\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "02.Service\\Api\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\ferneycprietop\\source\\repos\\Utils\\Pruebas\\dasigno\\Demokrata\\02.Service\\Api\\Controllers\\UserController.cs",
+              "RelativeToolTip": "02.Service\\Api\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T23:10:08.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUsuarioLogic.cs",
+              "DocumentMoniker": "C:\\Users\\ferneycprietop\\source\\repos\\Utils\\Pruebas\\dasigno\\Demokrata\\01.Logic\\BusinessLogic\\Interface\\User\\IUsuarioLogic.cs",
+              "RelativeDocumentMoniker": "01.Logic\\BusinessLogic\\Interface\\User\\IUsuarioLogic.cs",
+              "ToolTip": "C:\\Users\\ferneycprietop\\source\\repos\\Utils\\Pruebas\\dasigno\\Demokrata\\01.Logic\\BusinessLogic\\Interface\\User\\IUsuarioLogic.cs",
+              "RelativeToolTip": "01.Logic\\BusinessLogic\\Interface\\User\\IUsuarioLogic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T23:12:04.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioLogic.cs",
+              "DocumentMoniker": "C:\\Users\\ferneycprietop\\source\\repos\\Utils\\Pruebas\\dasigno\\Demokrata\\01.Logic\\BusinessLogic\\Implement\\User\\UsuarioLogic.cs",
+              "RelativeDocumentMoniker": "01.Logic\\BusinessLogic\\Implement\\User\\UsuarioLogic.cs",
+              "ToolTip": "C:\\Users\\ferneycprietop\\source\\repos\\Utils\\Pruebas\\dasigno\\Demokrata\\01.Logic\\BusinessLogic\\Implement\\User\\UsuarioLogic.cs",
+              "RelativeToolTip": "01.Logic\\BusinessLogic\\Implement\\User\\UsuarioLogic.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAowGIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T23:11:00.873Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
